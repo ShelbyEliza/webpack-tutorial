@@ -1,0 +1,24 @@
+@font-face {
+	font-family: "MyFont";
+	src: url("./font-work-sans-medium.woff") format("woff");
+	font-weight: 600;
+	font-style: normal;
+}
+/* @font-face {
+  font-family: "MyFont2";
+	font-weight: 600;
+	font-style: normal;
+} */
+
+.hello {
+	color: rgb(153, 40, 40);
+	/* background: url("./sunflowers.svg"); */
+	font-family: MyFont;
+}
+.flowers {
+	height: 300px;
+	width: 300px;
+}
+/* .para {
+	font-family: "MyFont2";
+} */
